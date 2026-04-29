@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="icon" src="https://github.com/user-attachments/assets/4742db46-ea20-48be-910c-97373566c9c8" />
+<img width="1254" height="1254" alt="icon" src="https://github.com/user-attachments/assets/800f079c-830d-4af1-9025-50bf46156247" />
 
 # 🔐 OpenLock
 
